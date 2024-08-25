@@ -43,4 +43,11 @@ if($check_pass){
 }
 }
 
+//user account
+//user@gmail.com
+//User1234#
+
+//admin account
+//admin@gmail.com
+//Admin1234#
 ?>
